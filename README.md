@@ -1,4 +1,4 @@
-# faii123
+# Crop Prediction using machine learning in python
 Download the code and the csv file.
 Install python packages before running the python file
 required packages- Tkinter, Pandas and sklearn.
